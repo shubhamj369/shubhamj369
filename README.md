@@ -1,10 +1,7 @@
 # About me
 
 
-**shubhamj369/shubhamj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**shubhamj369/shubhamj369** is a ✨ _special_ ✨ repository because its about me
 - 🌱 I’m currently learning Salesforce AI Specialist
 - 💬 Ask me about AI, Einstein, agents, etc
 - 📫 How to reach me: shubhamjangra36912@gmail.com  
